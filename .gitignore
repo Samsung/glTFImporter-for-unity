@@ -1,0 +1,54 @@
+[Ll]ibrary/
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uild_SymbolFiles/
+[Bb]uilds/
+[Ll]ogs/
+.idea/
+sysinfo.txt
+*.stackdump
+*.exe
+*.apk
+*.bat
+.vscode/
+
+/UserSettings/Layouts/*.*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+*.csproj
+*.sln
+
+*.meta
+!*.*.meta
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Trashes
+#Icon?
+ehthumbs.db
+[Tt]humbs.db
+Assets/ProBuilder\ Data/ProBuilderPreferences.asset
+Assets/ProBuilder\ Data/ProBuilderPreferences.asset.meta
+Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset*
+SwitchIL2CPP*
+/Assembly-CSharp.csproj
+

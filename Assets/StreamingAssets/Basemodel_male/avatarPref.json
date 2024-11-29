@@ -1,0 +1,297 @@
+{
+  "absColors": [
+    {
+      "key": 1051,
+      "value": "#E1B6A9"
+    },
+    {
+      "key": 1102,
+      "value": "#2E2420"
+    },
+    {
+      "key": 1217,
+      "value": "#4F2B01"
+    },
+    {
+      "key": 1258,
+      "value": "#9A3F1A"
+    },
+    {
+      "key": 1402,
+      "value": "#664538"
+    },
+    {
+      "key": 1404,
+      "value": "#2E2420"
+    },
+    {
+      "key": 1453,
+      "value": "#FFFFFF"
+    },
+    {
+      "key": 2001,
+      "value": "#202020"
+    },
+    {
+      "key": 2011,
+      "value": "#7F1A22"
+    },
+    {
+      "key": 2021,
+      "value": "#BD3F49"
+    }
+  ],
+  "absSkinColor": "#DAB2A2",
+  "absSkinColorTone": 0.75,
+  "avatarUniqueID": "20231205172318",
+  "bodyType": "male",
+  "createdByVersion": "500000001",
+  "detectedHairColor": "#ff635753",
+  "floats": [
+    {
+      "key": 1052,
+      "value": 0.75
+    },
+    {
+      "key": 1259,
+      "value": 0.7
+    },
+    {
+      "key": 2012,
+      "value": 0.8
+    },
+    {
+      "key": 2022,
+      "value": 0.6
+    }
+  ],
+  "savedByTime": "2024-11-28T12:14:31.813+0000",
+  "savedByVersion": "620102011",
+  "strings": [
+    {
+      "key": 1051,
+      "value": "skin_color_2"
+    },
+    {
+      "key": 1061,
+      "value": "cleftchin1"
+    },
+    {
+      "key": 1062,
+      "value": "no_wrinkles"
+    },
+    {
+      "key": 1101,
+      "value": "/data/overlays/sticker/0/TypeF/com.samsung.android.app.aremoji.Medium2.myemojihair/assets/1/myemojihair_Medium2.gltf"
+    },
+    {
+      "key": 1102,
+      "value": "hair_color_10"
+    },
+    {
+      "key": 1157,
+      "value": "face10"
+    },
+    {
+      "key": 1158,
+      "value": "forehead0"
+    },
+    {
+      "key": 1217,
+      "value": "eye_color_18"
+    },
+    {
+      "key": 1218,
+      "value": "custom"
+    },
+    {
+      "key": 1219,
+      "value": "eyedeeth0"
+    },
+    {
+      "key": 1220,
+      "value": "eyelid2"
+    },
+    {
+      "key": 1256,
+      "value": "mouth16"
+    },
+    {
+      "key": 1257,
+      "value": "smileline1"
+    },
+    {
+      "key": 1258,
+      "value": "lips_color_37"
+    },
+    {
+      "key": 1260,
+      "value": "feature_textures/Lips/Lips00.png"
+    },
+    {
+      "key": 1307,
+      "value": "earposition0"
+    },
+    {
+      "key": 1308,
+      "value": "earshape0"
+    },
+    {
+      "key": 1359,
+      "value": "nose1"
+    },
+    {
+      "key": 1360,
+      "value": "nosebridge0"
+    },
+    {
+      "key": 1401,
+      "value": "eyebrow6"
+    },
+    {
+      "key": 1402,
+      "value": "hair_color_8"
+    },
+    {
+      "key": 1404,
+      "value": "hair_color_10"
+    },
+    {
+      "key": 1451,
+      "value": ""
+    },
+    {
+      "key": 1453,
+      "value": "hair_color_1"
+    },
+    {
+      "key": 1501,
+      "value": ""
+    },
+    {
+      "key": 1601,
+      "value": ""
+    },
+    {
+      "key": 1651,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1652,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1653,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1654,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1700,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1701,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"/data/overlays/sticker/0/TypeF/com.samsung.android.app.aremoji.dmst010.myemojitopmen_20231205172506/assets/1/myemojitopmen_dmst010-20231205172506.gltf\"}"
+    },
+    {
+      "key": 1702,
+      "value": "{\"colorName\":\"color_set_0\",\"url\":\"/data/overlays/sticker/0/TypeF/com.samsung.android.app.aremoji.bottom92a.myemojibottommen/assets/1/myemojibottommen_bottom92a.gltf\"}"
+    },
+    {
+      "key": 1703,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1751,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1801,
+      "value": ""
+    },
+    {
+      "key": 1802,
+      "value": "no_color_item"
+    },
+    {
+      "key": 1851,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1901,
+      "value": "{\"colorName\":\"color_set_0\",\"url\":\"/data/overlays/sticker/0/TypeF/com.samsung.android.app.aremoji.shoes52a.myemojishoesmen/assets/1/myemojishoesmen_shoes52a.gltf\"}"
+    },
+    {
+      "key": 1911,
+      "value": ""
+    },
+    {
+      "key": 1921,
+      "value": "{\"colorName\":\"color_set_0\",\"url\":\"/data/overlays/sticker/0/TypeF/com.samsung.android.app.aremoji.gloves25a.myemojiglovesmen/assets/1/myemojiglovesmen_gloves25a.gltf\"}"
+    },
+    {
+      "key": 1931,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1932,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1933,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1941,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1942,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1943,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 1944,
+      "value": "{\"colorName\":\"no_color_item\",\"url\":\"\"}"
+    },
+    {
+      "key": 2001,
+      "value": "default_eyeliner_color"
+    },
+    {
+      "key": 2002,
+      "value": ""
+    },
+    {
+      "key": 2011,
+      "value": "blusher_eyeshadow_color_32"
+    },
+    {
+      "key": 2013,
+      "value": ""
+    },
+    {
+      "key": 2021,
+      "value": "blusher_eyeshadow_color_31"
+    },
+    {
+      "key": 2023,
+      "value": ""
+    },
+    {
+      "key": 2025,
+      "value": ""
+    },
+    {
+      "key": 2027,
+      "value": "modelshead/Eyelash/02_Dot01/Eyelash_Dot01_Albedo.png"
+    }
+  ],
+  "tmpFaceAttrsFile": "/data/user/0/com.samsung.android.aremojieditor/files/FaceAttrsCreationTmp/face_attribute_20210325180401.dat"
+}

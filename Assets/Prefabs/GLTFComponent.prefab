@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6748625456536833422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5094429047050765637}
+  - component: {fileID: 8131661643410387334}
+  - component: {fileID: 4010792210811410265}
+  m_Layer: 0
+  m_Name: GLTFComponent
+  m_TagString: GLTFComponent
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5094429047050765637
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6748625456536833422}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &8131661643410387334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6748625456536833422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9087a95f22bcee64ebc45f6deec08714, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animatorFeature:
+    useLegacyAnimator: 0
+    useTransitionAnimator: 0
+    legacyAnimatorController: {fileID: 9100000, guid: 0c43f243a486fe7489648669f101183e, type: 2}
+    humanoidAnimatorController: {fileID: 9100000, guid: 22ae439fad6332a46aa9fd401665f581, type: 2}
+    humanoidAnimationList: 1
+  gltfLoadFeature:
+    loadOnStartUp: 1
+    assetLocation: 0
+    loadType: 0
+    Url: /Basemodel_male/model.gltf
+    Multithreaded: 0
+    box: 0
+  faceFeature:
+    UseBlendShape: 1
+  shaderFeature:
+    TextureCompressionType: 5
+    UseTextureQuarterResolution: 0
+    UseCustomShader: 0
+    CustomShaderPropertyNames:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    CustomShader: {fileID: 0}
+    UseTextureReverse: 1
+    CharacterStandardShader: {fileID: 0}
+    AssetStandardShader: {fileID: 0}
+    GLTFStandard: {fileID: 4800000, guid: 9c58a22450b32c547b320e048a3ba13b, type: 3}
+    GLTFStandardSpecular: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+    GLTFConstant: {fileID: 4800000, guid: ede6e66a96bc7164abd2a9217b5a8b4c, type: 3}
+    brdf: {fileID: 2800000, guid: ba8a6e71010edb74fa465e8d85488df1, type: 3}
+    IBLIrradiance: {fileID: 8900000, guid: cbb97c3f72688974b83efe0914fb159b, type: 3}
+    IBLSpecular: {fileID: 8900000, guid: a0d64bf9a291272418627a00db7300a3, type: 3}
+    MaximumLod: 300
+  combineFeature:
+    UseMeshCombiner: 0
+    combineFlags: 6
+    textureResolutionRatio: 1
+    TextureAtlasOptimization: 1
+  AvatarBounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  addColliders: 0
+  IsLoadFailed: 0
+--- !u!114 &4010792210811410265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6748625456536833422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60099f579b970ce44a8fce9b7f008b9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

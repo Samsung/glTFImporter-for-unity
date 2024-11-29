@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/FaceAnimationLoader.cs.meta
+guid: 334f4e28186a4414d855c61f787b8d8e
+========
+guid: 0723c75e0ac009e4fbc2ff7fd2d1fe81
+>>>>>>>> a37522f50e8652fa23a5ec18d3901d37d0fb8315:Assets/Scripts/GLTFComponentFeature/AnimatorFeature.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

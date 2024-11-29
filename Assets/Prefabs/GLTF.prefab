@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1207117407296894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4095529959333326}
+  - component: {fileID: 114050369269772688}
+  m_Layer: 0
+  m_Name: GLTF
+  m_TagString: GLTFComponent
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4095529959333326
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1207117407296894}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114050369269772688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1207117407296894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9087a95f22bcee64ebc45f6deec08714, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _legacyAnimatorController: {fileID: 0}
+  _humanoidAnimatorController: {fileID: 0}
+  _useLegacyAnimator: 0
+  TextureCompressionType: 5
+  Url: /glTF/Dash/incdash.gltf
+  Multithreaded: 0
+  UseStream: 1
+  UseBlendShape: 1
+  UseTextureQuarterResolution: 0
+  UseCustomShader: 0
+  CustomShaderPropertyNames: []
+  CustomShader: {fileID: 0}
+  CharacterStandartShader: {fileID: 0}
+  AssetStandartShader: {fileID: 0}
+  GLTFStandard: {fileID: 4800000, guid: ae7579e504180d14496e207e64d9bbe0, type: 3}
+  GLTFStandardSpecular: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+  GLTFConstant: {fileID: 4800000, guid: ede6e66a96bc7164abd2a9217b5a8b4c, type: 3}
+  brdf: {fileID: 2800000, guid: 795bb8d39f89d2343952bdf3020b5882, type: 3}
+  IBLIrradiance: {fileID: 0}
+  IBLSpecular: {fileID: 0}
+  MaximumLod: 300
+  AvatarBounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  addColliders: 0
+  IsLoadFailed: 0
